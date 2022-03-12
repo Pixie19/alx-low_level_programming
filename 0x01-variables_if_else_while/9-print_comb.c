@@ -7,11 +7,11 @@
 */
 int main (void)
 {
-int n;
-for (n = 48; n < 58; n++)
+int c;
+for (c = '0'; c <='9' ; n++)
 {
-putchar(n);
-if (n != 57)
+putchar(c);
+if (c != '9')
 }
 putchar(',');
 putchar(' ');
