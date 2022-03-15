@@ -3,7 +3,7 @@
 /**
 *main -print alphabet in lowercase, followed by a new line.
 *
-*DESC   print alphaphet 
+*DESC print alphaphet 
 */
 void print_alphabet(void)
 {
