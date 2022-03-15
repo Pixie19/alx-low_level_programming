@@ -2,8 +2,8 @@
 
 /**
 *main -print alphabet in lowercase, followed by a new line.
-*
-*DESC print alphaphet 
+*DESC print alphaphet
+*retur n: _putchar
 */
 void print_alphabet(void)
 {
