@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
-*main -print alphabet in lowercase, followed by a new line.
-*DESC print alphaphet
-*retur n: _putchar
-*/
+ * print_alphabet - prints the alphabet, in lowercase, followed by a new line
+ *
+ */
 void print_alphabet(void)
 {
 char ch;
