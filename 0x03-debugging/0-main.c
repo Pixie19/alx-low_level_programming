@@ -3,7 +3,7 @@
 
 /**
 *main - tests functions  tht prints
-*Return :Always 0 (success)
+*Return: 0
 */
 
 
