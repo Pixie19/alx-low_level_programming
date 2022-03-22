@@ -1,7 +1,7 @@
-#ifndef "MAIN.H"
-#define "MAIN.H"
+#ifndef FILE_MAIN
+#define FILE_MAIN
 /**
- *main - main.f
+ *main - main.h
  *
  */
 
