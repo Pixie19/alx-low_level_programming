@@ -36,4 +36,5 @@ for (i = 0; i < old_size; i++)
 ptr1[i] = old_ptr[i];
 }
 free(ptr);
+return (ptr1);
 }
